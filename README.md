@@ -2,6 +2,6 @@
 
 - 🖥 Full time IT Trainer (specially in Flutter)
 - 🔭 I’m currently working on Flutter Mobile App development
-- 🌱 I’m currently learning Flutter & iOS
+- 🌱 I’m currently learning something new...
 - 💬 Ask me about Flutter queries
 
